@@ -49,6 +49,14 @@ In order to evaluate the time required to run each set of code (original and ref
 
 ![2017 timer](https://github.com/brianbutler08/stock-analysis/blob/main/VBA_Challenge_2017.png?raw=true)
 
-![2018 timer](
+![2018 timer](https://github.com/brianbutler08/stock-analysis/blob/main/VBA_Challenge_2018.png?raw=true)
 
 # Summary
+
+## Why Do We Refactor Code?
+
+In general, code is refactored to make inefficent, messy and over-complicated code cleaner and more efficicent. By clearing out unecessary lines of code and restructuring how it is organzied, the application becomes faster, easier to maintain and simpler to understand. Coding is often a collaborative process, with multiple people working together on a piece of code over a period of time. For this process to work, it is critical to maintain clearly understandable and straightforward code. Keeping code efficient and streamlined also makes it more scalable. The primary disadvantage to refactoring is always the potential of breaking the original code. In an effort to make it more efficient, you may accidently remove or modify a critical element and stop it from running properly.
+
+Refactoring VBA Code on This Project
+
+Our friend Steve was more than happy with our original code and didn't really care or understand about how it worked or how efficient it was. However, once there was an interest in using it to analyze much larger datasets, we realized that it would benefit greatly from a refactoring. The major advantage would or course be an increase in speed when moving through large data sets. Additionally, the code would be easier to scale up or modify if Steve wanted to look at additional qualities of differents stocks. As stated above, the major disadvantage here would be modifying the code to the extent that it breaks. This scenario indeed happened to us in refactoring the code for this project and it took some work to get the new refactored code to work again. As a general practice, we kept a copy of the original code to work from so always had a set of working code for Steve to run.
