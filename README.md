@@ -45,6 +45,8 @@ Our initial set of code did a great job of pulling out and summarizing the infor
 
 ![code image 3](https://github.com/brianbutler08/stock-analysis/blob/main/Screen%20Shot%202022-06-22%20at%2011.07.45%20PM.png)
 
+In order to evaluate the time required to run each set of code (original and refactored) we added a timer which began as the code was run and ended as the code finished. The original code ran quite quickly in looping through the twelve tickers in between 0.32 and 0.52 seconds. However, once the code was refactored, it ran much faster. The code handled the 2017 data in around 0.234 seconds and the 2018 data in a remarkable 0.086 seconds. 
 
+![2017 timer](
 
 # Summary
