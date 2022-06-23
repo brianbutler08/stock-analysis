@@ -41,6 +41,8 @@ Our initial set of code did a great job of pulling out and summarizing the infor
 
 ![code image](https://github.com/brianbutler08/stock-analysis/blob/main/Screen%20Shot%202022-06-22%20at%2011.06.13%20PM.png)
 
+![code image 2](https://github.com/brianbutler08/stock-analysis/blob/main/Screen%20Shot%202022-06-22%20at%2011.07.22%20PM.png)
+
 
 
 # Summary
