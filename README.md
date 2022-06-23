@@ -23,4 +23,6 @@ For this project, we ended up analyzing the performance data for a dozen stocks 
 - **Total Daily Volume** to quantify the amount of trading that took place involving each stock
 - **Stock Return** to see the percent rate of return over the course of year
 
+![Image of 2017 Stock Analysis table]
+
 # Summary
