@@ -25,7 +25,7 @@ For this project, we ended up analyzing the performance data for a dozen stocks 
 - **Total Daily Volume** to quantify the amount of trading that took place involving each stock
 - **Stock Return** to see the percent rate of return over the course of year
 
-Even looking casually at the summary tables below, one can conclude that investing in any of these stocks could be a risky proposition as best. After a stong collective 2017, all but two stocks displayed a negative return in 2018. The most promising of these is "RUN", which saw a return of 84.0% in 2018 after posting a modest return of 5.5% in 2017. Additionally, total volume increased by almost 88% from one year to the next. The other stock with a positive return in 2018 was "ENPH", displaying a return of 81.9% in 2018 after posting a significant return of 129.5% in 2017. However, the total volue of shares traded was a massive 607,473,500, amost three times more than in 2017. 
+Even looking casually at the summary tables below, one can conclude that investing in any of these stocks could be a risky proposition as best. After a strong collective 2017, all but two stocks displayed a negative return in 2018. The most promising of these is "RUN", which saw a return of 84.0% in 2018 after posting a modest return of 5.5% in 2017. Additionally, total volume increased by almost 88% from one year to the next. The other stock with a positive return in 2018 was "ENPH", displaying a return of 81.9% in 2018 after posting a significant return of 129.5% in 2017. However, the total volume of shares traded was a massive 607,473,500, almost three times more than in 2017. 
 
 **2017**
 
