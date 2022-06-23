@@ -39,6 +39,8 @@ Even looking casually at the summary tables below, one can conclude that investi
 
 Our initial set of code did a great job of pulling out and summarizing the information discussed above. It looped through the data set multiple times to find the appropriate data and push it to our summary table. However, in order to improve its performance on larger datasets and allow Steve to analyze potentially thousands of stocks quickly, we needed to refactor the code. Th primary approach we took was to set up a series of four arrays, one for the tickers and three for the outputs - volume, starting price and ending price. This meant that we would not need to loop through the data nearly as many times, resulting in a more streamlined code and much faster processing times.
 
+![code image](https://github.com/brianbutler08/stock-analysis/blob/main/Screen%20Shot%202022-06-22%20at%2011.06.13%20PM.png)
+
 
 
 # Summary
